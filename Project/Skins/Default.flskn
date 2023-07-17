@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  Comment="This is the default skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Search,Glossary,Favorites"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  CommentsInTopic="false"
+  AutoSyncTOC="true"
+  Title="F&amp;M's Cookbook"
+  FeedbackUserProfileItems="Username|EmailAddress|City|State"
+  NavigationLinkTop="true">
+  <!-- saved from url=(0014)about:internet -->
+  <Index
+    BinaryStorage="True" />
+  <HtmlHelpOptions
+    ShowMenuBar="False"
+    TopmostWindowStyle="False"
+    Buttons="Hide,Locate,Back,Forward,Stop,Refresh,Home,Font,Print"
+    EnableButtonCaptions="True" />
+  <WebHelpOptions
+    NavigationPaneWidth="0" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Frame">
+        <Classes>
+          <StyleClass
+            Name="BodyComments">
+            <Properties>
+              <Property
+                Name="Color">#579157</Property>
+              <Property
+                Name="FontSize">10pt</Property>
+              <Property
+                Name="FontWeight">bold</Property>
+              <Property
+                Name="BorderTop">solid 1pt #579157</Property>
+              <Property
+                Name="BorderBottom">solid 1pt #579157</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Toolbar
+    EnableCustomLayout="true"
+    Buttons="SelectTOC|SelectIndex|SelectSearch|Separator|PreviousTopic|TopicRatings|NextTopic" />
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic|Separator|RemoveHighlight|Print|Refresh" />
+</CatapultSkin>

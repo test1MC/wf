@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Default.Remove4ePub or Default.ScreenOnly] "
+  OutputFile="Cookbook"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  Medium="epub">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <DocumentProperties
+    Title="F&amp;M's Cookbook"
+    Author="Frank &amp; Michela" />
+</CatapultTarget>

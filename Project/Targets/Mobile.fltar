@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelpMobile"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  InsertMOTW="false"
+  SearchFilterSet="/Project/Advanced/types.flsfs"
+  MasterPage="/Content/Resources/MasterPages/MainMasterPage.flmsp"
+  ConditionTagExpression="exclude[Default.PrintOnly or Default.Remove4Mobile] "
+  DefaultUrl="/Content/main.htm"
+  OutputFile="index.htm"
+  EnableLiveHelp="True"
+  MakeFileLowerCase="true"
+  ReplaceSpacesWithUnderscores="true"
+  MoveOutputContentToRoot="true"
+  EnableFeedbackService="true"
+  MasterToc="/Project/TOCs/Mobile.fltoc">
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/DC1.fldes" />
+  </Destinations>
+</CatapultTarget>

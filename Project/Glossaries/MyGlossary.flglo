@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dice</Term>
+    </Terms>
+    <Definition
+      Link="">Cut into cubes of the same size.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dice (large)</Term>
+    </Terms>
+    <Definition
+      Link="">3/4" cubes</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dice (medium)</Term>
+    </Terms>
+    <Definition
+      Link="">1/2" cubes</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dice (small)</Term>
+    </Terms>
+    <Definition
+      Link="">1/4" cubes</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Dice (Brunoise)</Term>
+    </Terms>
+    <Definition
+      Link="">1/8" cubes</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Ruff Chop</Term>
+    </Terms>
+    <Definition
+      Link="">Cut into irregular pieces</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Coins</Term>
+    </Terms>
+    <Definition
+      Link="">Circular cuts ranging from 1/8" to 1" thick</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Batonnet</Term>
+    </Terms>
+    <Definition
+      Link="">Cuts 1/4" x 1/4" x 2" to 2 1/2"</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Julienne</Term>
+    </Terms>
+    <Definition
+      Link="">Cuts 1/8" x 1/8" x 2"</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Chiffonade</Term>
+    </Terms>
+    <Definition
+      Link="">Cut into fine shreds, hair-like threads of leafy vegetables</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Brunoise</Term>
+    </Terms>
+    <Definition
+      Link="">1/8" cubes</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

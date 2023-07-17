@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="On DC2\Users"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="\\dc2\users\fnovak\cookbook"
+  Port=""
+  ViewUrl="\\dc2\users\fnovak\cookbook\index.htm"
+  Type="file"></CatapultDestination>

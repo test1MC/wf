@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  SkinType="WebHelpMobile"
+  Comment="Mobile skin"
+  Tabs="TOC,Index,Search"
+  Title="F&amp;M's Recipes">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Navigation Element">
+        <Classes>
+          <StyleClass
+            Name="TOC - Home Page Row">
+            <Properties>
+              <Property
+                Name="LabelWithNoneOption">Recipes</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+  </Stylesheet>
+</CatapultSkin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="232" MadCap:lastWidth="1222">
+    <head>
+        <link href="../Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:pageHeader class="FirstPage" MadCap:conditions="Default.PrintOnly">Michela and Frank's Cookbook</MadCap:pageHeader>
+        <MadCap:pageHeader class="OddPage" MadCap:conditions="Default.PrintOnly">Vegetarian</MadCap:pageHeader>
+        <MadCap:pageHeader class="EvenPage" MadCap:conditions="Default.PrintOnly">Michela and Frank's Cookbook</MadCap:pageHeader>
+        <p MadCap:conditions="Default.PrintOnly">&#160;</p>
+        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+        <MadCap:breadcrumbsProxy class="" />
+        <MadCap:bodyProxy />
+        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+        <MadCap:pageFooter class="OddPage" MadCap:conditions="Default.PrintOnly"><MadCap:variable name="System.PageNumber" />
+        </MadCap:pageFooter>
+        <MadCap:pageFooter class="EvenPage" MadCap:conditions="Default.PrintOnly"><MadCap:variable name="System.PageNumber" />
+        </MadCap:pageFooter>
+    </body>
+</html>

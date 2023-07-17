@@ -1,0 +1,387 @@
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	page-break-before: always;
+	text-align: center;
+	font-size: 18pt;
+	mc-auto-number-format: ;
+	color: #579157;
+}
+
+h2
+{
+	font-weight: bold;
+	color: #579157;
+	background-color: #f2fcf3;
+	font-size: 12pt;
+	margin-bottom: 0.25em;
+	page-break-before: always;
+	mc-auto-number-format: ;
+}
+
+h3
+{
+	font-weight: bold;
+	color: #579157;
+	font-size: 10pt;
+	margin-bottom: 0.25em;
+	mc-heading-level: 0;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 9pt;
+	font-family: 'Arial,Tahoma';
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+p.from
+{
+	font-style: italic;
+	font-size: 8pt;
+	margin-bottom: 0.20em;
+}
+
+p.bold
+{
+	font-weight: bold;
+}
+
+li
+{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font: 'Arial,Tahoma';
+	font-size: 9pt;
+}
+
+MadCap|xref
+{
+	mc-format: '{title}';
+}
+
+MadCap|pageFooter
+{
+	font-family: 'Arial,Tahoma';
+	font-size: 9pt;
+	color: #696969;
+	border-top-color: #696969;
+	border-top-style: solid;
+	border-top-width: 2px;
+}
+
+MadCap|pageFooter.EvenPage
+{
+	text-align: left;
+}
+
+MadCap|pageFooter.OddPage
+{
+	text-align: right;
+}
+
+MadCap|pageHeader
+{
+	color: #696969;
+	font-size: 9pt;
+	font-family: 'Arial,Tahoma';
+	border-bottom-color: #696969;
+	border-bottom: solid 0px;
+	border-bottom-width: 2px;
+}
+
+MadCap|pageHeader.EvenPage
+{
+	text-align: left;
+}
+
+MadCap|pageHeader.OddPage
+{
+	text-align: right;
+}
+
+img.right
+{
+	float: right;
+}
+
+h1.chap
+{
+	
+}
+
+@media print
+{
+	MadCap|footnoteBlock
+	{
+		font-size: 9pt;
+	}
+
+	MadCap|footnote
+	{
+		mc-footnote-comment-style: ;
+		mc-footnote-style: ;
+		font-size: 9pt;
+	}
+
+	MadCap|footnotesBlock
+	{
+		font-size: 9pt;
+	}
+
+	p.Index1
+	{
+		mc-leader-align: right;
+	}
+
+	p.Index2
+	{
+		mc-leader-align: right;
+	}
+
+	h1.chap
+	{
+		mc-auto-number-format: 'CH:Chapter {chapnum}: ';
+	}
+
+	MadCap|xref
+	{
+		mc-format: '{title} (see page {page})';
+	}
+
+	h2.new
+	{
+		
+	}
+}
+
+h2.img
+{
+	
+}
+
+p.IndexHeading
+{
+	orphans: 2;
+	column-break-after: avoid;
+}
+
+MadCap|footnoteBlock
+{
+	font-size: 9pt;
+}
+
+MadCap|footnote
+{
+	mc-footnote-comment-style: ;
+	mc-footnote-style: ;
+	font-size: 9pt;
+}
+
+MadCap|footnotesBlock
+{
+	font-size: 9pt;
+}
+
+p.Index1
+{
+	mc-leader-align: right;
+}
+
+p.Index2
+{
+	mc-leader-align: right;
+}
+
+MadCap|footnoteBlock
+{
+	font-size: 9pt;
+}
+
+MadCap|footnote
+{
+	mc-footnote-comment-style: ;
+	mc-footnote-style: ;
+	font-size: 9pt;
+}
+
+MadCap|footnotesBlock
+{
+	font-size: 9pt;
+}
+
+p.Index1
+{
+	mc-leader-align: right;
+}
+
+p.Index2
+{
+	mc-leader-align: right;
+}
+
+MadCap|miniTocProxy
+{
+	color: #579157;
+	border-top-color: #579157;
+}
+
+MadCap|topicToolbarProxy
+{
+	float: right;
+}
+
+MadCap|breadcrumbsProxy
+{
+	font-size: 9pt;
+	mc-breadcrumbs-count: 5;
+	color: #579157;
+	border-bottom-width: 0px;
+	margin-top: 5px;
+	mc-breadcrumbs-divider: ' > ';
+}
+
+span.SearchHighlight1
+{
+	color: #000000;
+	background-color: #579157;
+}
+
+span.SearchHighlight2
+{
+	color: #000000;
+	background-color: #579157;
+}
+
+span.SearchHighlight3
+{
+	color: #000000;
+	background-color: #579157;
+}
+
+span.SearchHighlight4
+{
+	color: #000000;
+	background-color: #579157;
+}
+
+span.SearchHighlight5
+{
+	color: #000000;
+	background-color: #579157;
+}
+
+p.seperator
+{
+	font-weight: bold;
+	color: #579157;
+	font-size: 10pt;
+	margin-bottom: 0.25em;
+}
+
+@media epub
+{
+	h1.chap
+	{
+		mc-auto-number-format: 'CH:Chapter {chapnum}: ';
+	}
+
+	h2
+	{
+		font-size: 16pt;
+	}
+
+	h1
+	{
+		font-size: 20pt;
+	}
+
+	p
+	{
+		font-size: 12pt;
+	}
+
+	p.from
+	{
+		font-size: 10pt;
+	}
+
+	p.seperator
+	{
+		font-size: 14pt;
+	}
+
+	li
+	{
+		margin-bottom: 0px;
+		margin-top: 0px;
+		font-size: 12pt;
+	}
+}
+

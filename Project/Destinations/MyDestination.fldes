@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="mbmassage"
+  Host="ftp.mbmassage.com"
+  User="MyAccountId"
+  Password=""
+  Directory="cooking"
+  Port=""
+  ViewUrl="http://cooking.mbmassage.com/"
+  Type="ftp"></CatapultDestination>

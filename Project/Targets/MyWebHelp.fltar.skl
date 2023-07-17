@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="1" Comment="" Type="WebHelp" Destinations="" InsertMOTW="false" SearchFilterSet="/Project/Advanced/types.flsfs" MasterPage="/Content/Resources/MasterPages/MainMasterPage.flmsp" ConditionTagExpression="exclude[Default.PrintOnly or Default.Remove4Mobile] " DefaultUrl="/Content/main.htm" OutputFile="index.htm" EnableLiveHelp="True" LiveHelpKey="LH0W0e-6B4Y0E-0V0v1y-RuKzFg-GVwBpO-HYHQf5-sS+000-6C4psH-3KzLSQ-Qoq92J-tObQ==" LiveHelpServer="madcap" MakeFileLowerCase="true" ReplaceSpacesWithUnderscores="true" MoveOutputContentToRoot="true" EnableFeedbackService="false">
+    <Destinations>
+        <Destination Link="/Project/Destinations/DC1.fldes" />
+    </Destinations>
+</CatapultTarget>

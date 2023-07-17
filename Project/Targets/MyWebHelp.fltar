@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  InsertMOTW="false"
+  SearchFilterSet="/Project/Advanced/test.flsfs"
+  MasterPage="/Content/Resources/MasterPages/MainMasterPage.flmsp"
+  ConditionTagExpression="exclude[Default.NoNav or Default.PrintOnly or Default.Remove4Mobile] "
+  DefaultUrl="/Content/main.htm"
+  OutputFile="index.htm"
+  EnableLiveHelp="False"
+  MakeFileLowerCase="true"
+  ReplaceSpacesWithUnderscores="true"
+  MoveOutputContentToRoot="true"
+  EnableFeedbackService="false"
+  Skin="/Project/Skins/Default.flskn">
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/DC1.fldes" />
+  </Destinations>
+</CatapultTarget>

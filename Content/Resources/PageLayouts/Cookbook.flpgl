@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingRight="20px" PaddingLeft="80px">
+        <Frame Flow="header" Height="40px" Anchors="Left,Right,Top" Width="726px" Right="26px" Bottom="964px" X="24px" Y="12px" ColumnCount="1">
+        </Frame>
+        <Frame Flow="footer" Height="40px" Anchors="Left,Right,Bottom" Right="27px" Bottom="17px" X="23px" Y="959px" Width="726px">
+        </Frame>
+        <Frame Flow="body" Y="62px" Bottom="69px" X="26px" Right="24px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="726px" Height="885px">
+        </Frame>
+    </Page>
+    <Page Name="Copy of Normal" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal">
+        <Frame Flow="header" Height="40px" Anchors="Left,Right,Top" Width="726px" Right="26px" Bottom="964px" X="24px" Y="12px" ColumnCount="1">
+        </Frame>
+        <Frame Flow="footer" Height="40px" Anchors="Left,Right,Bottom" Right="27px" Bottom="17px" X="23px" Y="959px" Width="726px">
+        </Frame>
+        <Frame Flow="body" Y="62px" Bottom="69px" X="26px" Right="24px" ColumnCount="2" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="726px" Height="885px">
+        </Frame>
+    </Page>
+    <Page Name="left even" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingRight="80px">
+        <Frame Flow="header" Height="40px" Anchors="Left,Right,Top" Width="726px" Right="26px" Bottom="964px" X="24px" Y="12px" ColumnCount="1">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>F-M Cookbook</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="40px" Anchors="Left,Right,Bottom" Right="27px" Bottom="17px" X="23px" Y="959px" Width="726px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Y="62px" Bottom="69px" X="26px" Right="24px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="726px" Height="885px">
+        </Frame>
+    </Page>
+    <Page Name="right odd" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="80px">
+        <Frame Flow="header" Height="40px" Anchors="Left,Right,Top" Width="726px" Right="26px" Bottom="964px" X="24px" Y="12px" ColumnCount="1">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;"><MadCap:variable xhtml:name="Heading.Level1" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="40px" Anchors="Left,Right,Bottom" Right="27px" Bottom="17px" X="23px" Y="959px" Width="726px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Y="62px" Bottom="69px" X="26px" Right="24px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="726px" Height="885px">
+        </Frame>
+    </Page>
+    <Page Name="Copy of right odd" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="empty" PaddingLeft="80px" PaddingRight="80px">
+    </Page>
+</PageStyles>

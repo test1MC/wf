@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  InsertMOTW="false"
+  SearchFilterSet="/Project/Advanced/types.flsfs"
+  MasterPage="/Content/Resources/MasterPages/NoNav.flmsp"
+  ConditionTagExpression="exclude[Default.PrintOnly or Default.Remove4Mobile or Default.ScreenOnly] "
+  DefaultUrl="/Content/main.htm"
+  OutputFile="index.htm"
+  EnableLiveHelp="True"
+  MakeFileLowerCase="true"
+  ReplaceSpacesWithUnderscores="true"
+  MoveOutputContentToRoot="true"
+  EnableFeedbackService="false"
+  Skin="/Project/Skins/NoNav.flskn">
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/DC1.fldes" />
+  </Destinations>
+</CatapultTarget>

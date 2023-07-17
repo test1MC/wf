@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Appetizers"
+    Concepts="Appetizers"></SearchFilter>
+  <SearchFilter
+    Name="Breakfasts"
+    Comment=""
+    Concepts="Breakfasts" />
+  <SearchFilter
+    Name="Desserts"
+    Comment=""
+    Concepts="Desserts" />
+  <SearchFilter
+    Name="Dips, Salsas &amp; Sauces"
+    Comment=""
+    Concepts="Dips, Salsas &amp; Sauces" />
+  <SearchFilter
+    Name="Drinks &amp; Beverages"
+    Comment=""
+    Concepts="Drinks &amp; Beverages" />
+  <SearchFilter
+    Name="Main Dishes"
+    Comment=""
+    Concepts="Main Dishes" />
+  <SearchFilter
+    Name="Pasta Dishes &amp; Pasta Sauces"
+    Comment=""
+    Concepts="Pasta" />
+  <SearchFilter
+    Name="Salads"
+    Comment=""
+    Concepts="Salads" />
+  <SearchFilter
+    Name="Sides"
+    Comment=""
+    Concepts="Sides" />
+  <SearchFilter
+    Name="Soups"
+    Comment=""
+    Concepts="Soups" />
+  <SearchFilter
+    Name="Fish &amp; Seafood"
+    Comment=""
+    Concepts="Fish &amp; Seafood;Main Dishes" />
+</CatapultSearchFilterSet>

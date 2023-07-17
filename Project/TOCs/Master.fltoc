@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Main"
+    Link="/Content/main.htm"
+    StartSection="false"
+    StartChapter="false"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/toc.htm"
+    conditions="Default.PrintOnly"
+    VolumeNumberReset="same"
+    StartSection="true"
+    StartChapter="true"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="first" />
+  <TocEntry
+    Title="Appetizers"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Appetizers/!Appetizers.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first"
+    SectionNumber="1"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    ChapterNumber="1">
+    <TocEntry
+      Title="Asparagus and Fresh Dill Pastries"
+      Link="/Content/Appetizers/Asparagus and Fresh Dill Pastries.htm" />
+    <TocEntry
+      Title="Chorizo and Potato Spanish Tortilla Bites"
+      Link="/Content/Appetizers/Chorizo and Potato Spanish Tortilla Bites.htm" />
+    <TocEntry
+      Title="Dragon Potatoes &amp; Yams"
+      Link="/Content/Appetizers/Dragon Potatoes &amp; Yams.htm" />
+    <TocEntry
+      Title="Fried Brussels Sprouts"
+      Link="/Content/Appetizers/Fried Brussels Sprouts.htm" />
+    <TocEntry
+      Title="Herb Spring Rolls"
+      Link="/Content/Appetizers/Herb Spring Rolls.htm" />
+    <TocEntry
+      Title="Napa Valley Tomatoes"
+      Link="/Content/Appetizers/Napa Valley Tomatoes.htm" />
+    <TocEntry
+      Title="Samosas"
+      Link="/Content/Appetizers/Samosas.htm" />
+    <TocEntry
+      Title="Stuffed Grape Leaves"
+      Link="/Content/Appetizers/Stuffed Grape Leaves.htm" />
+    <TocEntry
+      Title="Warm Spiced Pecans with Rum Glaze"
+      Link="/Content/Appetizers/Warm Spiced Pecans with Rum Glaze.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Breakfasts"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Breakfasts/!Breakfasts.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Artichoke and Basil Frittata"
+      Link="/Content/Breakfasts/Artichoke and Basil Frittata.htm" />
+    <TocEntry
+      Title="Basil Pesto and Pasta Frittata"
+      Link="/Content/Breakfasts/Basil Pesto and Pasta Frittata.htm" />
+    <TocEntry
+      Title="Belgian Waffles"
+      Link="/Content/Breakfasts/Belgian Waffles.htm" />
+    <TocEntry
+      Title="Hard Boiled Eggs with Carmelized Onions"
+      Link="/Content/Breakfasts/Hard Boiled Eggs with Carmelized Onions.htm" />
+    <TocEntry
+      Title="Sweet Rice"
+      Link="/Content/Breakfasts/Sweet Rice.htm" />
+    <TocEntry
+      Title="Tofu Scrambler"
+      Link="/Content/Breakfasts/Tofu Scrambler.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Desserts"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Desserts/!Desserts.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Cranberry Bliss Balls"
+      Link="/Content/Desserts/Cranberry Balls.htm" />
+    <TocEntry
+      Title="Bitter Chocolate Mousse"
+      Link="/Content/Desserts/Bitter Chocolate Mousse.htm" />
+    <TocEntry
+      Title="Ebony and Ivory Chocolate Truffles"
+      Link="/Content/Desserts/Ebony and Ivory Chocolate Truffles.htm" />
+    <TocEntry
+      Title="Kahlua Mocha Flan"
+      Link="/Content/Desserts/Kahlua Mocha Flan.htm" />
+    <TocEntry
+      Title="Southern Pecan Pie"
+      Link="/Content/Desserts/Southern Pecan Pie.htm" />
+    <TocEntry
+      Title="Strawberries Cardinal"
+      Link="/Content/Desserts/Strawberries Cardinal.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Dips, Salsas &amp; Sauces"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Dips, Salsas &amp; Sauces/!Dips.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Black Bean and Mango Salsa"
+      Link="/Content/Dips, Salsas &amp; Sauces/Black Bean and Mango Salsa.htm" />
+    <TocEntry
+      Title="Chipotle Yogurt"
+      Link="/Content/Dips, Salsas &amp; Sauces/Chipotle Yogurt.htm" />
+    <TocEntry
+      Title="Green Chutney"
+      Link="/Content/Dips, Salsas &amp; Sauces/Green Chutney.htm" />
+    <TocEntry
+      Title="Manford's Guacamole"
+      Link="/Content/Dips, Salsas &amp; Sauces/Manford's Guacamole.htm" />
+    <TocEntry
+      Title="Pomegranate-Cumin Dressing"
+      Link="/Content/Dips, Salsas &amp; Sauces/Pomegranate-Cumin Dressing.htm" />
+    <TocEntry
+      Title="Salsa Fresca"
+      Link="/Content/Dips, Salsas &amp; Sauces/Salsa Fresca.htm" />
+    <TocEntry
+      Title="Spicy Peanut Sauce"
+      Link="/Content/Dips, Salsas &amp; Sauces/Spicy Peanut Sauce.htm" />
+    <TocEntry
+      Title="Spinach &amp; Feta Yogurt Sauce"
+      Link="/Content/Dips, Salsas &amp; Sauces/Spinach &amp; Feta Yogurt Sauce.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Drinks &amp; Beverages"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Drinks &amp; Beverages/!Drinks &amp; Beverages.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Caipirinha"
+      Link="/Content/Drinks &amp; Beverages/Caipirinha.htm" />
+    <TocEntry
+      Title="Cosmopolitan"
+      Link="/Content/Drinks &amp; Beverages/Cosmopolitan.htm" />
+    <TocEntry
+      Title="Frank's Margaritas"
+      Link="/Content/Drinks &amp; Beverages/Frank's Margaritas.htm" />
+    <TocEntry
+      Title="Fresh Lemonade"
+      Link="/Content/Drinks &amp; Beverages/Fresh Lemonade.htm" />
+    <TocEntry
+      Title="Mojitos"
+      Link="/Content/Drinks &amp; Beverages/Mojitos.htm" />
+    <TocEntry
+      Title="Mulled Wine"
+      Link="/Content/Drinks &amp; Beverages/Mulled Wine.htm" />
+    <TocEntry
+      Title="Pomegranate Martini"
+      Link="/Content/Drinks &amp; Beverages/Pomegranate Martini.htm" />
+    <TocEntry
+      Title="Sangria"
+      Link="/Content/Drinks &amp; Beverages/Sangria.htm" />
+    <TocEntry
+      Title="Tangerine Mimosas"
+      Link="/Content/Drinks &amp; Beverages/Tangerine Mimosas.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Main Dishes"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Main Dishes/!Main Dishes.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Fish and Seafood">
+      <TocEntry
+        Title="Marinated Ahi"
+        Link="/Content/Main Dishes/Fish and Seafood/Marinated Ahi.htm" />
+      <TocEntry
+        Title="Halibut with Broccoli Rabe and Lemon-Thyme Butter"
+        Link="/Content/Main Dishes/Fish and Seafood/Halibut with Broccoli Rabe and Lemon-Thyme Butter.htm" />
+      <TocEntry
+        Title="Roasted Halibut with a Shallot Crust"
+        Link="/Content/Main Dishes/Fish and Seafood/Roasted Halibut with a Shallot Crust.htm" />
+      <TocEntry
+        Title="Salmon with Fennel and Mashed Potatoes"
+        Link="/Content/Main Dishes/Fish and Seafood/Salmon with Fennel and Mashed Potatoes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="&quot;Chicken&quot; Enchilada Casserole"
+      Link="/Content/Main Dishes/Chicken Enchilada Casserole.htm" />
+    <TocEntry
+      Title="Chipotle Polenta Cakes"
+      Link="/Content/Main Dishes/Chipotle Polenta Cakes.htm" />
+    <TocEntry
+      Title="Creole Jambalaya"
+      Link="/Content/Main Dishes/Creole Jambalaya.htm" />
+    <TocEntry
+      Title="Chile Rellenos"
+      Link="/Content/Main Dishes/Chile Rellenos.htm" />
+    <TocEntry
+      Title="Chilled Lime Tofu with Stewed Tomatoes and Black Beans"
+      Link="/Content/Main Dishes/Chilled Lime Tofu with tomatoes and black beans.htm" />
+    <TocEntry
+      Title="Chock Full of Veggies Chili"
+      Link="/Content/Main Dishes/Chock Full of Veggies Chili.htm" />
+    <TocEntry
+      Title="Deep-Fried Tofu with Leeks (Niranegi To Yaki Dofu)"
+      Link="/Content/Main Dishes/Deep-Fried Tofu with Leeks.htm" />
+    <TocEntry
+      Title="Eggplant Rolls with Spicy Tomato Sauce"
+      Link="/Content/Main Dishes/Eggplant Rolls with Spicy Tomato Sauce.htm" />
+    <TocEntry
+      Title="Grilled Sausage and Fig Pizza with Goat Cheese"
+      Link="/Content/Main Dishes/Grilled Sausage and Fig Pizza with Goat Cheese.htm" />
+    <TocEntry
+      Title="Kale and Mushrooms with Polenta"
+      Link="/Content/Main Dishes/Kale and Mushrooms with Polenta.htm" />
+    <TocEntry
+      Title="Kale over Sesame Noodles"
+      Link="/Content/Main Dishes/Kale over Sesame Noodles.htm" />
+    <TocEntry
+      Title="Portobello Mushroom Burgers"
+      Link="/Content/Main Dishes/Portobello Mushroom Burgers.htm" />
+    <TocEntry
+      Title="Pot Pie"
+      Link="/Content/Main Dishes/Pot Pie.htm" />
+    <TocEntry
+      Title="Quinoa-Stuffed Peppers"
+      Link="/Content/Main Dishes/Quinoa-Stuffed Peppers.htm" />
+    <TocEntry
+      Title="Red Lentils and Rice with Blackened Onions"
+      Link="/Content/Main Dishes/Red Lentils and Rice with Blackened Onions.htm" />
+    <TocEntry
+      Title="Spring Risotto"
+      Link="/Content/Main Dishes/Spring Risotto.htm" />
+    <TocEntry
+      Title="Stuffed Peppers with Mushrooms, Walnuts, and Greens"
+      Link="/Content/Main Dishes/Stuffed Peppers with Mushrooms, Walnuts, and Greens.htm" />
+    <TocEntry
+      Title="Stuffed Portobello Mushrooms"
+      Link="/Content/Main Dishes/Stuffed Portobellos.htm" />
+    <TocEntry
+      Title="Thai Coconut Red or Green Curry"
+      Link="/Content/Main Dishes/Thai Coconut Red or Green Curry.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Pasta Dishes &amp; Pasta Sauces"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Pasta Dishes &amp; Pasta Sauces/!Pasta.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Creamy Pesto Sauce"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Creamy Pesto Sauce.htm" />
+    <TocEntry
+      Title="Creamy Vodka and Herb Sauce"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Creamy Vodka and Herb Sauce.htm" />
+    <TocEntry
+      Title="Eggplant Parmesan (Melanzane alla parmigiana)&#xA;"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Eggplant Parmesan.htm" />
+    <TocEntry
+      Title="Garlic Cream Sauce"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Garlic Cream Sauce.htm" />
+    <TocEntry
+      Title="Leek and Brussels Sprout Pasta"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Leek and Brussels Sprout Pasta.htm" />
+    <TocEntry
+      Title="Lobster Lasagna"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Lobster Lasagna.htm" />
+    <TocEntry
+      Title="Marinara Sauce (Salsa al pomodoro)"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Marinara Sauce.htm" />
+    <TocEntry
+      Title="New Mexico Mac and Cheese"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/New Mexico Mac and Cheese.htm" />
+    <TocEntry
+      Title="Stuffed Portobello Mushrooms with Creamed Spinach"
+      Link="/Content/Pasta Dishes &amp; Pasta Sauces/Stuffed Portobello Mushrooms with Creamed Spinach.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Salads"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Salads/!Salads.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Fresh Lobster Salad"
+      Link="/Content/Salads/Fresh Lobster Salad.htm" />
+    <TocEntry
+      Title="Niçoise Salad - Vegetarian "
+      Link="/Content/Salads/Vegetarian Salad Nicoise.htm" />
+    <TocEntry
+      Title="Sugar Snap Salad"
+      Link="/Content/Salads/Sugar Snap Salad.htm" />
+    <TocEntry
+      Title="Warm Squash Salad with Mint"
+      Link="/Content/Salads/Warm Squash Salad with Mint.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Side Dishes"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Sides/!Side Dishes.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Asparagus Sauteed with Pecans"
+      Link="/Content/Sides/Asparagus Sauteed with Pecans.htm" />
+    <TocEntry
+      Title="Baked Sweet Potato and Pecans"
+      Link="/Content/Sides/Baked Sweet Potato and Pecans.htm" />
+    <TocEntry
+      Title="Calabazitas"
+      Link="/Content/Sides/Calabazitas.htm" />
+    <TocEntry
+      Title="Creamed Spinach Deluxe.htm"
+      Link="/Content/Sides/Creamed Spinach Deluxe.htm" />
+    <TocEntry
+      Title="Granny's Cornbread"
+      Link="/Content/Sides/Cornbread.htm" />
+    <TocEntry
+      Title="Mexican Rice"
+      Link="/Content/Sides/Mexican Rice.htm" />
+    <TocEntry
+      Title="Roasted Acorn Squash"
+      Link="/Content/Sides/Roasted Acorn Squash.htm" />
+    <TocEntry
+      Title="Roasted Basil and Garlic Potatoes"
+      Link="/Content/Sides/Roasted Basil and Garlic Potatoes.htm" />
+    <TocEntry
+      Title="Saffron Rice"
+      Link="/Content/Sides/Saffron Rice.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Soups &amp; Stews"
+    StartSection="true"
+    PageNumber="1"
+    Link="/Content/Soups/!Soups &amp; Stews.htm"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first">
+    <TocEntry
+      Title="Avgolemono Soup"
+      Link="/Content/Soups/Avgolemono Soup.htm" />
+    <TocEntry
+      Title="Barley Stew"
+      Link="/Content/Soups/Barley Stew.htm" />
+    <TocEntry
+      Title="Buddha Bowl"
+      Link="/Content/Soups/Buddha Bowl.htm" />
+    <TocEntry
+      Title="Butternut Squash and Roasted Garlic Bisque"
+      Link="/Content/Soups/Butternut Squash and Roasted Garlic Bisque.htm" />
+    <TocEntry
+      Title="Caldo Verde"
+      Link="/Content/Soups/Caldo Verde.htm" />
+    <TocEntry
+      Title="Cauliflower Soup"
+      Link="/Content/Soups/Cauliflower Soup.htm" />
+    <TocEntry
+      Title="Corn Chowder"
+      Link="/Content/Soups/Corn Chowder.htm" />
+    <TocEntry
+      Title="Double Celery and Potato Soup"
+      Link="/Content/Soups/Double Celery and Potato Soup.htm" />
+    <TocEntry
+      Title="Lentil Soup"
+      Link="/Content/Soups/Lentil Soup.htm" />
+    <TocEntry
+      Title="Mushroom Stew"
+      Link="/Content/Soups/Mushroom Stew.htm" />
+    <TocEntry
+      Title="Moroccan Stew"
+      Link="/Content/Soups/Moroccan Stew.htm" />
+    <TocEntry
+      Title="New Mexico Onion Soup"
+      Link="/Content/Soups/Mexican Onion Soup.htm" />
+    <TocEntry
+      Title="Potato Corn Chowder"
+      Link="/Content/Soups/Potato Corn Chowder.htm" />
+    <TocEntry
+      Title="Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard"
+      Link="/Content/Soups/Spicy Sun-Dried Tomato Soup with White Beans &amp; Swiss Chard.htm" />
+    <TocEntry
+      Title="Tuscan Vegetable Soup with White Beans and Parmesan"
+      Link="/Content/Soups/Tuscan Vegetable Soup with White Beans and Parmesan.htm" />
+    <TocEntry
+      Title="Vegetable Soup"
+      Link="/Content/Soups/Vegetable Soup.htm" />
+    <TocEntry
+      Title="White Bean, Kale and Roasted Vegetable Soup"
+      Link="/Content/Soups/White Bean, Kale and Roasted Vegetable Soup.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="New Recipes - Not tried or completed"
+    StartSection="true"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageType="first"
+    PageNumberReset="continue"
+    Link="/Content/!New/!New.htm"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Baked Four-Cheese Spaghetti"
+      Link="/Content/!New/Baked Four-Cheese Spaghetti.htm" />
+    <TocEntry
+      Title="Blue Cheese Ball"
+      Link="/Content/!New/Blue Cheese Ball.htm" />
+    <TocEntry
+      Title="Broiled Tofu"
+      Link="/Content/!New/Broiled Tofu.htm" />
+    <TocEntry
+      Title="Chipotle Corn Soup"
+      Link="/Content/!New/Chipotle Corn Soup.htm" />
+    <TocEntry
+      Title="Classic Lemonade"
+      Link="/Content/!New/Classic Lemonade.htm" />
+    <TocEntry
+      Title="Corn Stuffed Peppers"
+      Link="/Content/!New/Corn Stuffed Peppers.htm" />
+    <TocEntry
+      Title="Hash Brown Casserole"
+      Link="/Content/!New/Hash Brown Casserole.htm" />
+    <TocEntry
+      Title="Kalamata Tapenade"
+      Link="/Content/!New/Kalamata Tapenade.htm" />
+    <TocEntry
+      Title="Lasagna"
+      Link="/Content/!New/Lasagna.htm" />
+    <TocEntry
+      Title="Lasagna Cupcakes"
+      Link="/Content/!New/Lasagna Cupcakes.htm" />
+    <TocEntry
+      Title="Mediterranean Greens"
+      Link="/Content/!New/Mediterranean Greens.htm" />
+    <TocEntry
+      Title="MIke's Margies"
+      Link="/Content/!New/MIke's Margies.htm" />
+    <TocEntry
+      Title="Murgh Masala"
+      Link="/Content/!New/Murgh Masala.htm" />
+    <TocEntry
+      Title="Pasta with Chickpeas, Tomatoes and Chard"
+      Link="/Content/!New/Pasta with Chickpeas, Tomatoes and Chard.htm" />
+    <TocEntry
+      Title="Potato Soufflé"
+      Link="/Content/!New/Potato Soufflé.htm" />
+    <TocEntry
+      Title="Spicy Two-Bean Vegetarian Chili"
+      Link="/Content/!New/Spicy Two-Bean Vegetarian Chili.htm" />
+    <TocEntry
+      Title="Sugar Brown Carrots"
+      Link="/Content/!New/Sugar Brown Carrots.htm" />
+    <TocEntry
+      Title="Tortilla Soup"
+      Link="/Content/!New/Tortilla Soup.htm" />
+    <TocEntry
+      Title="Vegetarian Pho (Frank's Version)"
+      Link="/Content/!New/Vegetarian Pho (Frank).htm" />
+    <TocEntry
+      Title="Vegetarian Pho (Michela's Version)"
+      Link="/Content/!New/Vegetarian Pho (Michela).htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/images.htm"
+    StartSection="true"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Cookbook.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Index"
+    Link="/Content/index.htm"
+    conditions="Default.PrintOnly"
+    StartSection="true"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/index.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="first" />
+</CatapultToc>

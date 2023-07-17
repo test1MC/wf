@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/MadCap.xsd">
+  <file
+    original="Mobile.fltar"
+    source-language="en-us"
+    datatype="x-fltar">
+    <header>
+      <skl>
+        <external-file
+          href="Mobile.fltar.skl" />
+      </skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <tool
+        tool-id="MadCap Align"
+        tool-name="Align"
+        tool-version="3.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body></body>
+  </file>
+</xliff>
